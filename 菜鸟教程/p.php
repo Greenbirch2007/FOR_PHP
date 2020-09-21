@@ -1,7 +1,7 @@
 <?php
-$x = "hello world";
-$x=null;
-var_dump($x);
 
+//(e1)?(e2):(e3)
+
+echo 1<=>1;
 
 ?>
