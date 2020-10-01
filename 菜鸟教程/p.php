@@ -1,7 +1,5 @@
 <?php
+namespace Mylll;
 
-//(e1)?(e2):(e3)
-
-echo 1<=>1;
-
+echo __NAMESPACE__;
 ?>
